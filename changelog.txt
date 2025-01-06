@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2025-01-05
+  Changes:
+    - Create mod
+    - Increase distances between inner planets by 2x (from 15000 km to 30000 km)
+    - Increase distances between outer planets by 2x (from 30000 km to 60000 km)
+    - Increase distance from Aquilo to the Solar System Edge by 1.8x
+    - Distances roughly match the 1:2:3 ratios of Vanilla
+
