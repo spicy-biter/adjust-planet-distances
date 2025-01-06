@@ -11,7 +11,7 @@ for temp, connection in pairs(data.raw["space-connection"]) do
             connection.length
             * settings.startup["planet-distances-edge-multiplier"].value
         )
-    else
+    elseif connection.to ~= "shattered-planet" then
         -- inner planets
         connection.length = math.floor(
             connection.length
